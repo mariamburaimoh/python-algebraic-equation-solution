@@ -40,5 +40,5 @@ else:
                mulp = fa * fxr
                mullp = round(mulp, 3)
                print(a,b)
-print("the solution is ", xr)     
+
 
